@@ -1,0 +1,148 @@
+{
+  "D1-1": {
+    "image": "images/d1-1.png",
+    "info": "💡 <b>Info:</b> På layout billedet betyder ⭐ Tilføjet Bygning og ↙ Flyttet Bygning.",
+    "sell": [],
+    "build": [
+      "3 Udvidelse (Kvantfragmenter)",
+      "3 Stokværkshus",
+      "7 Herskabshus",
+      "5 Garveri",
+      "5 Bryggeri",
+      "7 Kirke"
+    ],
+    "res": "Mønter: 34.400 | Forsyninger: 75.000 | Legering: 0"
+  },
+  "D1-2": {
+    "image": "images/d1-2.png",
+    "sell": ["1 Kirke"],
+    "build": ["1 Galge", "1 Alkymist"],
+    "res": "Mønter: 187.075 | Forsyninger: 239.000 | Legering: 15"
+  },
+  "D2-1": {
+    "image": "images/d2-1.png",
+    "sell": ["1 Stokværkshus", "1 Garveri"],
+    "build": ["1 Bindingsværkshus", "1 Alkymist"],
+    "res": "Mønter: 347.050 | Forsyninger: 434.840 | Legering: 43"
+  },
+  "D2-2": {
+    "image": "images/d2-2.png",
+    "sell": ["1 Stokværkshus"],
+    "build": [
+      "1 Rebslageri (Vent 1 time/Byg Øjeblikkelig)",
+      "Køb 2 Udvidelser (4x20 Reb)",
+      "1 Stokværkshus",
+      "1 Alkymist",
+      "1 Bindingsværkshus",
+      "1 Kirke",
+      "1 Markedsplads"
+    ],
+    "res": "Mønter: 176.475 | Forsyninger: 400.500 | Legering: 67"
+  },
+  "D3-1": {
+    "image": "images/d3-1.png",
+    "sell": ["1 Markedsplads", "1 Kirke"],
+    "build": [
+      "1 Katapultlejr",
+      "Køb 2x10 enheder (Sælg Katapultlejr)",
+      "2 Bindingsværkshus",
+      "1 Gabestok",
+      "1 Herskabshus"
+    ],
+    "res": "Mønter: 250.050 | Forsyninger: 491.435 | Legering: 17"
+  },
+  "D3-2": {
+    "image": "images/d3-2.png",
+    "sell": ["4 Garveri"],
+    "build": [
+      "Køb 1 Udvidelse (4x20 Reb)",
+      "5 Alkymist",
+      "1 Kirke",
+      "1 Galge",
+      "4 Herskabshus"
+    ],
+    "res": "Mønter: 143.750 | Forsyninger: 303.995 | Legering: 8"
+  },
+  "D4-1": {
+    "image": "images/d4-1.png",
+    "sell": ["2 Kirke"],
+    "build": [
+      "Køb 1 Udvidelse (7x20 Reb)",
+      "1 Gabestok",
+      "3 Alkymist",
+      "2 Bindingsværkshus"
+    ],
+    "res": "Mønter: 43.950 | Forsyninger: 21.355 | Legering: 164"
+  },
+  "D4-2": {
+    "image": "images/d4-2.png",
+    "sell": ["1 Kirke", "1 Bryggeri", "2 Stokværkshus"],
+    "build": [
+      "1 Blidelejr (Byg Øjeblikkelig)",
+      "Køb 5x10 enheder (Sælg Blidelejr)",
+      "1 Klinkbygget Hus (Byg Øjeblikkelig)",
+      "1 Bageri (Byg Øjeblikkelig)",
+      "1 Galge"
+    ],
+    "res": "Mønter: 392.200 | Forsyninger: 200.120 | Legering: 135"
+  },
+  "D5-1": {
+    "image": "images/d5-1.png",
+    "sell": ["4 Kirke", "1 Herskabshus"],
+    "build": [
+      "Køb 1 Udvidelse (9x20 Reb)",
+      "2 Gabestok",
+      "1 Klinkbygget Hus (Byg Øjeblikkelig)",
+      "1 Bageri (Byg Øjeblikkelig)",
+      "4 Bryggeri"
+    ],
+    "res": "Mønter: 489.700 | Forsyninger: 13.960 | Legering: 61"
+  },
+  "D5-2": {
+    "image": "images/d5-2.png",
+    "info": "💡 <b>Info:</b> Herfra kan du vælge at bygge <b>Vejskilte</b> eller <b>Gargoils (Dekorationer)</b>, hvis du mangler <b>Rød/Blå Angrib/Forsvar boost %</b>. To dekorationer koster omtrent det samme som én Gabestok. Vær forsigtig med byens eufori!",
+    "sell": ["2 Herskabshus"],
+    "build": [
+      "Køb 1 Udvidelse (12x20 Reb)",
+      "1 Gabestok",
+      "2 Klinkbygget Hus",
+      "1 Bageri"
+    ],
+    "res": "Mønter: 753.325 | Forsyninger: 102.520 | Legering: 282"
+  },
+  "D6-1": {
+    "image": "images/d6-1.png",
+    "sell": ["1 Rebslageri", "1 Bryggeri"],
+    "build": [
+      "Køb 1 Udvidelse (15x20 Reb)",
+      "4 Gabestok",
+      "1 Herskabshus",
+      "1 Blidelejr"
+    ],
+    "res": "Mønter: 692.750 | Forsyninger: 146.205 | Legering: 1.823"
+  },
+  "D6-2": {
+    "image": "images/d6-2.png",
+    "sell": ["6 Herskabshus"],
+    "build": ["6 Gabestok"],
+    "res": "Mønter: 2.523.000 | Forsyninger: 964.205 | Legering: 3.639"
+  },
+  "D7-1": {
+    "image": "images/d7-1.png",
+    "sell": ["2 Herskabshus"],
+    "build": ["2 Gabestok"],
+    "res": "Mønter: 3.916.500 | Forsyninger: 2.262.205 | Legering: 7.365"
+  },
+  "D7-2": {
+    "image": "images/d7-2.png",
+    "sell": [
+      "7 Bryggeri",
+      "11 Alkymist",
+      "1 Blidelejr",
+      "2 Herskabshus",
+      "4 Bindingsværkshus"
+    ],
+    "build": ["1 Kanonlejr", "13 Læge", "10 Gabestok"],
+    "res": "Mønter: 2.016.200 | Forsyninger: 911.330 | Legering: 361"
+  }
+}
